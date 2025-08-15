@@ -52,7 +52,5 @@ It empowers decision-makers to monitor performance, identify trends, and take da
 
 - Identify high-performing regions and cities.
 - Understand sales vs. profitability patterns.
-
-Pinpoint best-selling categories.
-
-Track yearly sales performance to align strategies.
+- Pinpoint best-selling categories.
+- Track yearly sales performance to align strategies.
